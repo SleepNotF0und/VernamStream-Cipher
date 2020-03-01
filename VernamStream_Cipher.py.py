@@ -1,3 +1,5 @@
+#Bug in the Decryptor
+
 while True:
     ch =int(input("Press 1 to Encrypt || Press 2 to Decrypt\n>>>"))
     if ch == 1:
